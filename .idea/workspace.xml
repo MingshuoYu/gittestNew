@@ -226,7 +226,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525130859726</updated>
-      <workItem from="1525130861184" duration="1187000" />
+      <workItem from="1525130861184" duration="1312000" />
     </task>
     <servers />
   </component>
@@ -243,9 +243,12 @@
     <history-entry file="edu_ucsd_cs110_tests_in_travistest - 2018.04.30 at 16h 33m 18s.xml">
       <configuration name="edu.ucsd.cs110.tests in travistest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_travistest - 2018.04.30 at 19h 13m 46s.xml">
+      <configuration name="edu.ucsd.cs110.tests in travistest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1187000" />
+    <option name="totallyTimeSpent" value="1312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="22" width="960" height="1173" extended-state="0" />
