@@ -29,8 +29,8 @@ public class CelsiusTest extends TestCase{
         // Verify the prefix of the formatted string
         assertTrue(string.endsWith(ending));
 
-        // Verify the middle of the formatted string
         int endIndex = string.indexOf(ending);
+        // Verify the middle of the formatted string
 
         // (Hint: what is the length of the middle of the string?)
         assertTrue(string.substring(0, endIndex).equals(beginning));
